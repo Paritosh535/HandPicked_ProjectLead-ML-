@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c5c78c-47be-4aaf-8d62-a511d7ed3908" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_lead/PickleFile/Emp.pickle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_lead/PickleFile/corpus_X.pickle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_lead/PickleFile/corpus_y.pickle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_lead/HPPL_NLP_Model.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_lead/HPPL_PickleFile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_lead/HPP_HPPL_Algo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_lead/HPP_MainModel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_lead/templates/project_lead/result.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project_lead/LeadAlgo.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HPPL/settings.py" afterPath="$PROJECT_DIR$/HPPL/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_lead/models.py" afterPath="$PROJECT_DIR$/project_lead/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_lead/templates/project_lead/index.html" afterPath="$PROJECT_DIR$/project_lead/templates/project_lead/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_lead/views.py" afterPath="$PROJECT_DIR$/project_lead/views.py" />
-    </list>
+    <list default="true" id="56c5c78c-47be-4aaf-8d62-a511d7ed3908" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +53,8 @@
       <file leaf-file-name="HPPL_PickleFile.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project_lead/HPPL_PickleFile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+            <state relative-caret-position="51">
+              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding>
                 <element signature="e#94#114#0" expanded="true" />
               </folding>
@@ -206,11 +190,6 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="HPPL" type="cbb8eebc:String" user="HPPL" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="HPPL" type="cbb8eebc:String" user="HPPL" />
-              <item name="project_lead" type="cbb8eebc:String" user="project_lead" />
             </path>
           </expand>
           <select />
@@ -357,8 +336,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19288956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19288956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -720,8 +700,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project_lead/HPPL_PickleFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        <state relative-caret-position="51">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding>
             <element signature="e#94#114#0" expanded="true" />
           </folding>
