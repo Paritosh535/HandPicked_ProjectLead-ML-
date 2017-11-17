@@ -14,8 +14,21 @@
         {% csrf_token %}
         <label>Name</label>
         <textarea class="form-control" name="data" ></textarea><br/>
-
         <input type="submit" value="Submit" />
     </form>
   </body>
+
+<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type='text/javascript'>
+    $(function(){
+      // When a Button is clicked on your page, disable everything and display your loading element
+      $(':button,:submit').click(function(){
+          <!--// Disable everything-->
+          <!--$('*').prop('disabled',true);-->
+          // Display your loading image (centered on your screen)
+          $('body').append("<img style='top: 45%; position: absolute; height: 100px; width: 100px;background: black;left: 45%;' src='http://www.klk.com.my/wp-content/themes/klk/images/loading-ajax.gif' />");
+      });
+    });
+</script>
+
 </html>
