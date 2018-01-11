@@ -27,6 +27,9 @@ def NLP_Process(data):
 
 def NLP_Cleaning_Add_to_Corpus(mytext):
     text = ''.join(str(e) for e in mytext)
+    # load_corpus_X = load_PickleFile("corpus_X")
+    # load_corpus_y = load_PickleFile("corpus_y")
+
     load_corpus_X = load_PickleFile("corpus_X")
     load_corpus_y = load_PickleFile("corpus_y")
     length_corpus_X = (len(load_corpus_X))
